@@ -1,6 +1,4 @@
 syntax "yaml" "\.ya?ml$"
-#comment "#"
-header "^---" "%YAML"
 
 # Values
 color green "(:|^|\s)+\S+"
